@@ -1,11 +1,11 @@
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Rizal Khoirudin. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🔭 &nbsp; I'm an Electrical Engineer.
+- 🤔 &nbsp; Exploring new technologies and developing solutions and quick hacks.
+- 🎓 &nbsp; Studying Mikrocontroller, Robotic and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Python | C++  
+- 🌐 &nbsp; Android | HTML |
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Android Studio | Visual Studio code | Matlab | Arduino IDE
 - 🖥 &nbsp; Photoshop | Corel Draw
 
 <br>
